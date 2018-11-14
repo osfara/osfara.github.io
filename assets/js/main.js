@@ -4,17 +4,23 @@
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+function url_query( query ) {
+    query = query.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var expr = "[\\?&]"+query+"=([^&#]*)";
+    var regex = new RegExp( expr );
+    var results = regex.exec( window.location.href );
+    if ( results !== null ) {
+        return results[1];
+    } else {
+        return false;
+    }
+}
+
+function times(n,f){while(n-->0)f();}
+
 (function($) {
 
 
-
- // var app = new Vue({
- //     el: '#page-wrapper',
- //     data: {
- //             message: 'Hello Vue!',
- //             menu: []
- //     }
- //     })
 
     $('#nav').load('/partials/nav.html').hide().fadeIn('slow', function(){
         // Dropdowns.
@@ -28,12 +34,36 @@
 
     $('#footer').load('/partials/footer.html')
 
+    show_more = ()=>{
+        times(5, ()=>{
+            if( news_app.all_news.length){
+                news_app.news.push(news_app.all_news.shift())
+            }else{
+                news_app.more_news = false
+            }
 
-    // $.getJSON('data/menu/index.json', function(menu_index){
-    //  console.log("got menu")
-    //  app.menu = menu_index
-    // })
+        })
 
+        if(!news_app.all_news.length){ news_app.more_news = false}
+    }
+
+     var news_app = new Vue({
+        el: '#news_section',
+        data: {
+            all_news: [],
+            news: [],
+            more_news: true,
+            shown:      0,
+            show_more: show_more
+        }
+     })
+
+
+    $.getJSON('data/news.json', function(news){
+        news_app.all_news = news
+        show_more()
+
+    })
 
 
     var $window = $(window),

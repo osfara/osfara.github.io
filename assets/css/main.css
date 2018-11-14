@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+.news_img {
+	width: auto;
+	max-width: 100%
+}
+
 /* Basic */
 
 	html {
