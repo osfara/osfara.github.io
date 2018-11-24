@@ -2102,16 +2102,21 @@ input, select, textarea {
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
 					background: #f3f3f3;
+					font-weight: bold;
 				}
 
 				#nav > ul > li.current > a {
 					background: #3C8861;
 					color: #fff !important;
-					font-weight: 700;
+					font-weight: 800;
+				}
+				
+				#nav > ul > li.PDF > a {
+					target: _blank;
 				}
 
 	.dropotron {
-		border-radius: 5px;
+		border-radius: 12px;
 		background-color: #252122;
 		background-color: rgba(34, 30, 31, 0.98);
 		padding: 1.25em 1.5em 1.25em 1.5em;
@@ -2127,9 +2132,9 @@ input, select, textarea {
 		.dropotron a, .dropotron span {
 			color: #aaa;
 			text-decoration: none;
-			-moz-transition: color .25s ease-in-out;
-			-webkit-transition: color .25s ease-in-out;
-			-ms-transition: color .25s ease-in-out;
+			-moz-transition: color .15s ease-in-out;
+			-webkit-transition: color .15s ease-in-out;
+			-ms-transition: color .15s ease-in-out;
 			transition: color .25s ease-in-out;
 		}
 
@@ -2139,6 +2144,7 @@ input, select, textarea {
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
 				color: #fff;
+				font-weight: bold;
 			}
 
 		.dropotron.level-0 {
@@ -2172,18 +2178,18 @@ input, select, textarea {
 	}
 
 		#banner header {
-			background-color: rgba(34, 30, 31, 0.98);
+			background-color: rgba(45, 30, 31, 0.98);
 			/*background-color: transparent;*/
 			display: inline-block;
 			padding: 2.5em 5em;
-			border-radius: 5px;
+			border-radius: 10px;
 			margin: 0 0 0.65em 0;
 		}
 
 			#banner header h2 {
 				color: #fff;
-				font-weight: 700;
-				font-size: 2.5em;
+				font-weight: 900;
+				font-size: 3em;
 				margin: 0 0 0.65em 0;
 			}
 
