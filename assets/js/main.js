@@ -35,7 +35,7 @@ function times(n,f){while(n-->0)f();}
     $('#footer').load('/partials/footer.html')
 
     show_more = ()=>{
-        times(5, ()=>{
+        times(4, ()=>{
             if( news_app.all_news.length){
                 news_app.news.push(news_app.all_news.shift())
             }else{
