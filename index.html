@@ -41,7 +41,7 @@
               <div class="col-12">
                   <section id="news_section">
                     <header class="major">
-                      <h2>News</h2>
+                      <h2>Novice</h2>
                     </header>
                     <div class="row">
 
@@ -53,6 +53,7 @@
                           </header>
                           <p>{{ n.content }}</p>
                           <p>{{ n.author }}</p>
+						  <a href="/docs/2019_09_10_ZbiranjeOdpadneEmbalaze.pdf" target="_blank">{{ n.link }}</a>
 
                           <img class="news_img" v-for="i in n.images" :src="'images/' + i"  />
 
