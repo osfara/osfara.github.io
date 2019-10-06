@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+	    <title>OŠFara</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+                    <img src="/images/banner/logo.png">
+
+					<nav id="nav"></nav>
+
+				</section>
+
+			<!-- Main -->
+				<section id="main">
+					<div class="container">
+
+						<!-- Content -->
+							<article class="box post">
+								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+								<header>
+									<h2>Nacionalno preverjanje znanja - Maj 2020</h2>
+								</header>
+                <p>
+	  Vse podrobnosti, ki zadevajo Nacionalno preverjanje znanja za šolsko leto 2019-2020 najdete na spletni strani RIC-a.<br>
+    https://www.ric.si/preverjanje_znanja/koledar_npz/<br>
+    Za dodatna pojasnila ali vprašanja, se lahko obrnete na razredničarko svojega oddelka ali na šolsko svetovalno delavko.<br>
+         
+                </p>
+               
+							</article>
+
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<section id="footer">
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+		    <!-- Scripts -->
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
