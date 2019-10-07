@@ -1,25 +1,5 @@
 [
     {
-        "date": "25.9.2019",
-        "title": "Tek Petra Klepca - za novo šolsko igrišče na podružnici Osilnica",
-        "author": "Uroš Obranovič",
-        "content": "Osnovna Šola Fara - Podružnična Šola Osilnica in Občina Osilnica vabita na dogodek »Otroci za otroke na teku Petra Klepca» v torek, 1. 10. 2019, ob 10. uri v Osilnici. Preko 100 otrok okoliških osnovnih šol bo skupaj z vrstniki iz Osilnice simbolično teklo za dober namen zbiranje sredstev za obnovo dotrajanega Šolskega igrišča v Osilnici. Udeležeci dogodka boste akcijo zbiranja sredstev lahko podprli s prostovoljnimi prispevki. Dogodek poteka pod častnim pokroviteljstvom predsednika Republike Slovenije Boruta Pahorja."	    
-    },
-	   
-   
-	
-    {
-        "date": "10.9.2019",
-        "title": "Zbiranje odpadne elektronske opreme",
-        "author": "Uroš Obranovič",
-        "content": "V sredo, 11. septembra, bo ob 8. uri na prireditveni prostor pri OŠ Fara pripeljal zbiralnik za zbiranje odpadne elektronske opreme.",
-		"link" : "Več..."
-	
-        
-
-    },
-	
-    {
         "date": "15.11.2018",
         "title": "TUDI MI BOMO IMELI ENAKE MOŽNOSTI",
         "author": "Martin Marinč",
@@ -32,54 +12,54 @@
 
 	{
 		"date": "25.10.2018",
-		"title": "CANKARJEVA VRHNIKA IN MUZEJ",
+		"title":  "CANKARJEVA VRHNIKA IN MUZEJ",
 		"author": "Geraldine Frbežar",
 		"content": "V četrtek, 25. oktobra so se učenci OŠ Fara in PŠ Osilnica odpeljali proti Vrhniki, kjer so si z vodičema ogledovali dele mesta, povezane z življenjem Ivana Cankarja, katerega 100-letnica smrti je povezana z dogodki v Sloveniji v celem letu 2018. Ogledali so si Cankarjevo rojstno hišo na Klancu, se sprehodili do cerkve, si ogledali spomenik in enajsto šolo pod mostom ob Ljubljanici. Vodič skupine starejših otrok je bil opravljen kot sam pisatelj, zato je toliko bolj zbujal pozornost učencev, ki so mu z zanimanjem prisluhnili. V popoldanskem delu programa pa smo si ogledali Muzej pošte in telekomunikacij v Polhovem Gradcu; tam so učenci izdelali tudi štampiljko s poljubnim likom. Polni vtisov smo se prijetno utrujeni vrnili domov.",
         "images": [
-            "CANKARJEVA_VRHNIKA_IN_MUZEJ/01.jpg"
+            "CANKARJEVA_VRHNIKA_IN_MUZEJ/01.jpg",
             "CANKARJEVA_VRHNIKA_IN_MUZEJ/02.jpg"
         ]
-		
 	},
-	
+
 
     {
 
-        "date": "14 Marec 2018",
-        "title": "Očistili tudi v Osilnici",
-        "author": "Marinč Martin",
-        "content": "Tudi v POŠ Osilnica smo se pridružili očiščevalni akciji. V četrtek, 30. marca 2017 smo očistili okolico šole in sprehajalno pot, ki vodi do reke Kolpe. Ugotovili smo, da je okolica šole zelo čista, saj nismo našli skoraj nobene smeti. Po poti do reke Kolpe, predvsem pa v bližini vode, pa smo hitro napolnili svojo vrečko. Našli smo največ pločevink in druge odpadne embalaže."
+        "date" : "14 Marec 2018",
+        "title": "Oddaja \"Dobro Jutro\" v Kostelu",
+        "author": "",
+        "content" : "Tudi v POŠ Osilnica smo se pridružili očiščevalni akciji. V četrtek, 30. marca 2017 smo očistili okolico šole in sprehajalno pot, ki vodi do reke Kolpe. Ugotovili smo, da je okolica šole zelo čista, saj nismo našli skoraj nobene smeti. Po poti do reke Kolpe, predvsem pa v bližini vode, pa smo hitro napolnili svojo vrečko. Našli smo največ pločevink in druge odpadne embalaže."
 
     },
 
 
     {
 
-        "date": "13 Februar 2018",
+        "date" : "13 Februar 2018",
         "title": "OBVESTILO - STAVKA",
         "author": "Martin Marinč, ravnatelj",
-        "content": "Spoštovani straši, Sporočamo vam, da bodo v  sredo, 14.2.2018 na OŠ Fara, POŠ Osilnica in v vrtcu Fara pouk in druge vzgojno-izobraževalne aktivnosti potekale povsem normalno. Učitelji podpirajo stavkovne zahteve SVIZ-a, vendar zaradi nevšečnosti staršem, predvsem pa za dobrobit učenk in učencev naše šole, ter  otrok iz vrtca Fare, ne bodo stavkali. Ta dan, bo vzgojno – izobraževalni proces v šoli in vrtcu potekal po načrtovanem urniku."
+        "content" : "Spoštovani straši, Sporočamo vam, da bodo v  sredo, 14.2.2018 na OŠ Fara, POŠ Osilnica in v vrtcu Fara pouk in druge vzgojno-izobraževalne aktivnosti potekale povsem normalno. Učitelji podpirajo stavkovne zahteve SVIZ-a, vendar zaradi nevšečnosti staršem, predvsem pa za dobrobit učenk in učencev naše šole, ter  otrok iz vrtca Fare, ne bodo stavkali. Ta dan, bo vzgojno – izobraževalni proces v šoli in vrtcu potekal po načrtovanem urniku."
 
     },
 
 
     {
 
-        "date": "6 Februar 2018",
+        "date" : "6 Februar 2018",
         "title": "OB PREŠERNOVEM DNEVU",
         "author": "Geraldine Frbežar",
-        "content": "V torek, 6. februarja so učenci naše šole sodelovali v kulturnem programu, posvečenemu slovenskemu kulturnemu prazniku, ki ga je organiziral Zavod za kulturo in turizem Kostel. Učenci so recitirali pesmi Toneta Pavčka, Franceta Prešerna in Barbare Gregorič Gorenc, učenki Kaja Bizjak Lisac in Lucija Štefančič pa sta prebrali svoji pesmi o gradu Kostel, ki sta nastali v okviru projektov Grad Kostel in Moja rodna domovina. V glasbenem delu programa sta nastopila učenca Dino Štimac in Erik Bauer  s skladbama na harmoniki, malčki iz vrtca Fara pa so nam pokazali, kako so nekoč plesali grajske plese. Izvirne grajske noše je malčkom sešila gospa Anita Šakič. Kulturnega večera, ki je potekal v galeriji stavbe Stara šola TRIS, se je udeležilo lepo število domačinov."
+        "content" : "V torek, 6. februarja so učenci naše šole sodelovali v kulturnem programu, posvečenemu slovenskemu kulturnemu prazniku, ki ga je organiziral Zavod za kulturo in turizem Kostel. Učenci so recitirali pesmi Toneta Pavčka, Franceta Prešerna in Barbare Gregorič Gorenc, učenki Kaja Bizjak Lisac in Lucija Štefančič pa sta prebrali svoji pesmi o gradu Kostel, ki sta nastali v okviru projektov Grad Kostel in Moja rodna domovina. V glasbenem delu programa sta nastopila učenca Dino Štimac in Erik Bauer  s skladbama na harmoniki, malčki iz vrtca Fara pa so nam pokazali, kako so nekoč plesali grajske plese. Izvirne grajske noše je malčkom sešila gospa Anita Šakič. Kulturnega večera, ki je potekal v galeriji stavbe Stara šola TRIS, se je udeležilo lepo število domačinov."
 
     },
 
      {
 
-        "date": "18 April 2017",
+        "date" : "18 April 2017",
         "title": "Čistil tudi v osilnici",
-        "author": "abcTest",
-        "content": "Tudi v POŠ Osilnica smo se pridružili očiščevalni akciji. V četrtek, 30. marca 2017 smo očistili okolico šole in sprehajalno pot, ki vodi do reke Kolpe. Ugotovili smo, da je okolica šole zelo čista, saj nismo našli skoraj nobene smeti. Po poti do reke Kolpe, predvsem pa v bližini vode, pa smo hitro napolnili svojo vrečko. Našli smo največ pločevink in druge odpadne embalaže."
+        "author": "",
+        "content" : "Tudi v POŠ Osilnica smo se pridružili očiščevalni akciji. V četrtek, 30. marca 2017 smo očistili okolico šole in sprehajalno pot, ki vodi do reke Kolpe. Ugotovili smo, da je okolica šole zelo čista, saj nismo našli skoraj nobene smeti. Po poti do reke Kolpe, predvsem pa v bližini vode, pa smo hitro napolnili svojo vrečko. Našli smo največ pločevink in druge odpadne embalaže."
 
     }
 
 
 ]
+
