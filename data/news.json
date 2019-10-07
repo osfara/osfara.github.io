@@ -1,20 +1,25 @@
 [
-    {
+    	{
+        "date": "10.9.2019",
+        "title": "Zbiranje odpadne elektronske opreme",
+        "author": "Uroš Obranovič",
+        "content": "V sredo, 11. septembra, bo ob 8. uri na prireditveni prostor pri OŠ Fara pripeljal zbiralnik za zbiranje odpadne elektronske opreme.",
+	"link" : "Več..."
+	},
+
+	{
         "date": "15.11.2018",
         "title": "TUDI MI BOMO IMELI ENAKE MOŽNOSTI",
         "author": "Martin Marinč",
         "content": "V jeseni 2017 smo pričeli z akcijo oziroma pristopili k zahtevnemu projektu »Kemijski laboratorij«, oziroma pridobitev večnamenske učilnice za izvajanje praktičnega pouka naravoslovnih predmetov kemije, fizike in biologije za učenke in učence OŠ Fara. OŠ Fara je majhna šola, na jugu, v občini Kostel, ob reki Kolpi. Devetletko v povprečju obiskuje 50 otrok letno in so zelo uspešni na najrazličnejših področjih izobraževanja. Vendar so bili zaradi neprimernih prostorov in pomanjkanja ustrezne opreme za izvajanje praktičnega pouka naravoslovnih predmetov, v primerjavi s svojimi vrstniki iz mestnih, oziroma bogatejših šol, prikrajšani. Nismo jim mogli omogočiti izvedbe nekaterih aktivnosti praktičnega pouka, kjer bi lahko varno izvajali raznovrstne poskuse in preizkuse, ali jim ponuditi izvajanje interesne dejavnosti, kjer bi lahko dodatno razvili svoje navdušenje nad znanostjo. Postavitev sodobnega laboratorija je predstavljala za OŠ Fara, kot tudi za našo malo občino Kostel, velik organizacijski in seveda finančni zalogaj. Celotna investicija z preureditvijo obstoječe učilnice je znašala 20.000 EUR. Z donatorskimi sredstvi (finančna sredstva, laboratorijski pripomočki in oprema) smo uspeli pridobit kar 12.000 EUR. Občina Kostel bo prispevala manjkajoča sredstva v višini 8.000 EUR, kar predstavlja v zadnjih 10-ih letih tudi eno večjih investicij naše občine v šolo, za naše otroke, za naše šolarje. Pri tem so nam pomagali starši naših učencev, tu bi posebej izpostavili gospo Vanjo Selan iz Banja Loke, ki je od vsega začetka zelo aktivno sodelovala pri projektu in reševala zahtevne gradbene izzive. Z ravnateljem OŠ Fara, Martinom Marinčem, sta združila moči in projekt uspešno koordinirala ter ga v zelo kratkem času pripeljala do realizacije. Sodelovala sta tudi pri pridobivanju številnih donatorjev, ki so se odzvali na našo prošnjo po pomoči. Le-ti so prispevali finančna sredstva, laboratorijsko opremo in pripomočke. Donatorji, ki so omogočili, da bodo naši učenci razvijali laboratorijske spretnosti in pridobivali novo znanje v učilnici za praktični pouk so: Krka, d.d., Novo mesto, Melamin d.d. Kočevje, Kolpa, d.d. Metlika, Univerza v Ljubljani, MED-LAB, Miloš Rauh s.p, ELEA iC d.o.o., LU-MA Marko Luzar s.p, S.M. d.o.o., INOTHERM d.o.o., evropski poslanec dr. Igor Šoltes. Tudi županja občine Kostel Lili Butina in svetniki naše občine so našo investicijo vključili v občinski proračun in podprli realizacijo projekta. Seveda pa brez dodatnega truda naših učiteljev, predvsem pa zelo prizadevne in vztrajne učiteljice naravoslovnih predmetov na naši šoli Ane Gril ne bi šlo. Projekt smo s skupnimi močmi uspeli pripeljati do konca in vsem, ki ste nam pomagali pri vlaganju v izobraževanje naših učenk in učencev na OŠ Fara, se iskreno zahvaljujemo. Hvala vsem za dobro opravljeno delo, pripravljenost sodelovati in podporo projektu, na katerega smo vsi lahko ponosni, da nam ga je uspelo izpeljati v tako kratkem času. Z vašo pomočjo smo lahko dokončno uredili sodobno učilnico za praktični pouk kemije, fizike in biologije za prihodnje rodove učencev, ki se bodo šolali v Kostelu. Tako smo omogočili kostelskim otrokom enake možnosti za izobraževanje, kot jih imajo otroci v večjih mestih, oziroma bogatejših sredinah.",
-        "images": [
-            "TUDI_MI_BOMO/01.jpg"
-        ]
-
-    },
+        "images": [ "TUDI_MI_BOMO/01.jpg" ]
+    	},
 
 	{
-		"date": "25.10.2018",
-		"title":  "CANKARJEVA VRHNIKA IN MUZEJ",
-		"author": "Geraldine Frbežar",
-		"content": "V četrtek, 25. oktobra so se učenci OŠ Fara in PŠ Osilnica odpeljali proti Vrhniki, kjer so si z vodičema ogledovali dele mesta, povezane z življenjem Ivana Cankarja, katerega 100-letnica smrti je povezana z dogodki v Sloveniji v celem letu 2018. Ogledali so si Cankarjevo rojstno hišo na Klancu, se sprehodili do cerkve, si ogledali spomenik in enajsto šolo pod mostom ob Ljubljanici. Vodič skupine starejših otrok je bil opravljen kot sam pisatelj, zato je toliko bolj zbujal pozornost učencev, ki so mu z zanimanjem prisluhnili. V popoldanskem delu programa pa smo si ogledali Muzej pošte in telekomunikacij v Polhovem Gradcu; tam so učenci izdelali tudi štampiljko s poljubnim likom. Polni vtisov smo se prijetno utrujeni vrnili domov.",
+	"date": "25.10.2018",
+	"title":  "CANKARJEVA VRHNIKA IN MUZEJ",
+	"author": "Geraldine Frbežar",
+	"content": "V četrtek, 25. oktobra so se učenci OŠ Fara in PŠ Osilnica odpeljali proti Vrhniki, kjer so si z vodičema ogledovali dele mesta, povezane z življenjem Ivana Cankarja, katerega 100-letnica smrti je povezana z dogodki v Sloveniji v celem letu 2018. Ogledali so si Cankarjevo rojstno hišo na Klancu, se sprehodili do cerkve, si ogledali spomenik in enajsto šolo pod mostom ob Ljubljanici. Vodič skupine starejših otrok je bil opravljen kot sam pisatelj, zato je toliko bolj zbujal pozornost učencev, ki so mu z zanimanjem prisluhnili. V popoldanskem delu programa pa smo si ogledali Muzej pošte in telekomunikacij v Polhovem Gradcu; tam so učenci izdelali tudi štampiljko s poljubnim likom. Polni vtisov smo se prijetno utrujeni vrnili domov.",
         "images": [
             "CANKARJEVA_VRHNIKA_IN_MUZEJ/01.jpg",
             "CANKARJEVA_VRHNIKA_IN_MUZEJ/02.jpg"
