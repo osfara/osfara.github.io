@@ -1,9 +1,18 @@
 [
-    	{
+    	
+	{
+        "date": "15.10.2019",
+        "title": "Mednarodni nogometni turnir v Ravni Gori",
+        "author": "Rok Lozar",
+        "content": "Osnovna Šola Fara - Podružnična Šola Osilnica in Občina Osilnica vabita na dogodek »Otroci za otroke na teku Petra Klepca» v torek, 1. 10. 2019, ob 10. uri v Osilnici. Preko 100 otrok okoliških osnovnih šol bo skupaj z vrstniki iz Osilnice simbolično teklo za dober namen zbiranje sredstev za obnovo dotrajanega Šolskega igrišča v Osilnici. Udeležeci dogodka boste akcijo zbiranja sredstev lahko podprli s prostovoljnimi prispevki. Dogodek poteka pod častnim pokroviteljstvom predsednika Republike Slovenije Boruta Pahorja.",
+	"images": ["PeterKlepec.jpg"]	
+	},
+	
+	{
         "date": "25.9.2019",
         "title": "Tek Petra Klepca - za novo šolsko igrišče na podružnici Osilnica",
         "author": "Uroš Obranovič",
-        "content": "Osnovna Šola Fara - Podružnična Šola Osilnica in Občina Osilnica vabita na dogodek »Otroci za otroke na teku Petra Klepca» v torek, 1. 10. 2019, ob 10. uri v Osilnici. Preko 100 otrok okoliških osnovnih šol bo skupaj z vrstniki iz Osilnice simbolično teklo za dober namen zbiranje sredstev za obnovo dotrajanega Šolskega igrišča v Osilnici. Udeležeci dogodka boste akcijo zbiranja sredstev lahko podprli s prostovoljnimi prispevki. Dogodek poteka pod častnim pokroviteljstvom predsednika Republike Slovenije Boruta Pahorja.",
+        "content": "Tudi v letošnjem šolskem letu se odvija mednarodni nogometni turnir, v katerem sodelujejo OŠ Fara, OŠ Ravna Gora ter OŠ Fužina, slednji sta iz Hrvaške. Tokrat je bil prvi turnir med omenjenimi šolami v Ravni Gori, naši učenci pa so tokrat zasedli drugo mesto, saj so v finalni tekmi izgubili za en gol. Glavni namen turnirja je druženje učencev in učiteljev iz različnih krajev obeh držav, izmenjavi izkušenj, uživanje v prelepi naravi. Dogodek bo v naslednjih letih dobil še večje razsežnosti, nogometu bodo dodane tudi druge športne discipline.",
 	"images": ["PeterKlepec.jpg"]	
 	},
 	
