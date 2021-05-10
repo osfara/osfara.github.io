@@ -52,13 +52,12 @@
                             <p>{{ n.date }}</p>
                           </header>
                           <p>{{ n.content }}</p>
-                          <p>{{ n.author }}</p>
-						  <a href="/docs/načrt_COVID19.pdf" target="_blank">{{ n.link }}</a>
+                          <p>{{ n.author }}</p>			
 
                           <img class="news_img" v-for="i in n.images" :src="'images/' + i"  />
 
                           <footer>
-
+				<!-- <a v-for="i in n.link" :href="i">Več o tem ... -></a> -->
                           </footer>
                         </section>
                       </div>
