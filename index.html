@@ -57,7 +57,21 @@
                           <img class="news_img" v-for="i in n.images" :src="'images/' + i"  />
 
                           <footer>
-				<!-- <a v-for="i in n.link" :href="i">Več o tem ... -></a> -->
+				  <!-- ce je povezava za novico page, aktiviraj spodnjo vrstico, in v JSON formatu napisi page-->
+				  <!-- <a v-for="i in n.link_page" :href="i">Več o tem ... -></a> -->
+				  <!-- JSON:
+					,
+					"link_page": ["Govorilne_ure.html"]
+					-->
+				  
+				  <!-- ce je povezava za novico file, aktiviraj spodnjo vrstico, in v JSON formatu napisi za kateri file gre (file shrai v /'docs'-->
+				  <!-- <a v-for="i in n.link_file" :href="i" _target = "blank">Več o tem ... -></a> -->
+				  <!-- JSON:
+					,
+					"link-file": ["BIO_8.pdf"] 
+					-->
+				  
+				  
                           </footer>
                         </section>
                       </div>
