@@ -2,7 +2,7 @@
 
 {
 		
-        "date": "20.03.2024",
+        "date": "20.03.2025",
         "title": "SEJEM ALTERMED IN ZLATO PRIZNANJE",
         "content": "V nedeljo, 16. 3. 2025, smo se v okviru Eko šole udeležili sejma ALTERMED v Celju. V zgodnjih jutranjih urah smo se odpravili iz Fare proti Celju.  Letošnja tema je bila: Tradicionalna in zdrava prehrana v interakciji s podeželjem, kot šola pa smo se predstavili z MEDENIMI POZDRAVI IZ KOSTELA. Ko smo prispeli v Celje, smo okrasili našo stojnico z izdelki, ki smo jih izdelali v šoli, pripravili medene namaze z ekološko kozjo skuto, razstavili medene izdelke lokalnega čebelarja ter promocijski material občine Kostel. Učenci Zala, Leja, Marcel in Aleksander so za obiskovalce naše stojnice pripravili tudi zanimiv kviz o čebelah. Vsak obiskovalec se je lahko preizkusil v kvizu ter si s pravilnim odgovorom prislužil nagrado, broško v obliki medene rožice. Ob pokušanju medenih namazov ter medenjakov so učenci tudi predstavili nekaj značilnosti našega kraja. Stojnica je bila obiskovalcem in organizatorjem všeč, saj smo zanjo prejeli zlato priznanje.",
 	"images": [
@@ -18,11 +18,11 @@
 
 {
 		
-        "date": "07.03.2024",
+        "date": "07.03.2025",
         "title": "MAČKORE",
         "content": "Na čudovit, sončen pustni torek, 4. 3. 2025, so našo šolo in vrtec preplavile pustne šeme. Zavladal je smeh in sivino vsakdanjega šolskega dne so pregnali barviti kostumi. Maškare smo skupaj zarajale v vrtcu in s prepevanjem pesmi priklicale pomlad. Po kosilu, pri katerem smo se posladkali s slastnimi krofi, pa smo se odpravili še na sprehod po vasi, da so metulji, vile, Pika Nogavičke, vitezi, astronavti in druge šeme s pesmijo in poplesavanjem dokončno pomahali zimi v slovo.''Za debelo repo i za bob, marat mašte i kof krof?''",
 	"images": [
-		"TUDI_MI_BOMO/MA1.jpg"
+		"TUDI_MI_BOMO/MA1.jfif"
 		
 	
 ]
@@ -30,7 +30,19 @@
 
 
 
-
+{
+		
+        "date": "18.02.2025",
+        "title": "KULTURNI DAN - RASTEM S KNJIGO",
+        "content": "V torek, 18.2. so imeli učenci 7.r. 2. KD v okviru projekta Rastem s knjigo. Obiskali so Knjižnico Kočevje in se seznanili z vlogo splošnih knjižnic, se preizkusili v iskanju gradiv v bazi podatkov Cobiss in reševanju kviza. Kot vsako leto so tudi letos prejeli nagrado, knjigo Sposojena babica Štefi avtorice Mateje Gomboc. Obiskali so tudi Pokrajinski muzej Kočevje in si ogledali stalno razstavo o kočevskih Nemcih ter film poselitev Kočevske, Kostela in Osilnice. Spoznali so veliko novega in bili navdušeni nad vsebinami. Nekateri so se odločili, da bodo podarjeno knjigo z veseljem prebrali.",
+	"images": [
+		"TUDI_MI_BOMO/RK1.jfif",
+		"TUDI_MI_BOMO/RK2.jfif",
+		"TUDI_MI_BOMO/RK3.jfif"
+		
+	
+]
+         },
 
 
 
