@@ -10,15 +10,35 @@
 
 },
 
+
+	{
+		
+        "date": "26. 3. 2026",
+    "title": "ČISTILNA AKCIJA",
+        "content": "V okviru čistilne akcije Očistimo Kočevsko smo z našimi učenci čistili okolico naše šole ter breg reke Kolpe. Obnovili smo tudi znanje o pravilnem ločevanju odpadkov ter o pomenu ohranjanja čistega okolja in narave. Učenci so bili presenečeni nad količino pobranih odpadkov ter zadovoljni, da so pripomogli k bolj urejeni in prijetnejši okolici naše šole. ",
+	"images": [
+		"TUDI_MI_BOMO/ČA1.JPG",
+		"TUDI_MI_BOMO/ČA2.JPG"
+
+		
+		
+		
+							
+]	
+},
+
 {
 		
-        "date": "20. 3. 2026",
+       
+	{
+	
+	"date": "20. 3. 2026",
     "title": "ALTERMED - ZLATO PRIZNANJE ZA OŠ FARA",
         "content": "Pravkar smo izvedeli, da smo si na sejmu Altermed v Celju prislužili zlato priznanje. Trdo delo in vztrajnost sta se zopet pokazala za pravo pot do uspeha.",
 	"images": [
 		"TUDI_MI_BOMO/Altermed 2026 zlato priznanje.JPG"
 		
-		
+		{
 		
 							
 ]	
